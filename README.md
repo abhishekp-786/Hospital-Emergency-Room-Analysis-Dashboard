@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Analysis (Interactive Dashboard creation using MS EXCEL)
+l# Hospital-Emergency-Room-Analysis (Interactive Dashboard creation using MS EXCEL)
  
 ## Project objective
 We need to create a Hospital Emergency Room Analysis Dashboard in MS EXCEL to improve efficiency and provide useful insights. This dashboard will help stakeholders monitor, analyze, and make better decisions for managing patients and improving services.
@@ -26,28 +26,28 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS EXCEL to im
 ![Screenshot 2025-03-30 153033](https://github.com/user-attachments/assets/b7129c56-254c-4ef3-9542-72d4e13bf908)
 
 ## Project Insights
--A higher percentage of patients are treated and released compared to those admitted, indicating that most cases are not severe.
+- A higher percentage of patients are treated and released compared to those admitted, indicating that most cases are not severe.
 
--Admission rates tend to increase during peak hours and late-night emergencies.
+- Admission rates tend to increase during peak hours and late-night emergencies.
 
--Middle-aged and elderly patients (50+) visit the emergency room more frequently, possibly due to chronic conditions.
+- Middle-aged and elderly patients (50+) visit the emergency room more frequently, possibly due to chronic conditions.
 
--Young adults (20-40 years) have moderate visits, while children (0-10 years) mostly come in for urgent but treatable conditions.
+- Young adults (20-40 years) have moderate visits, while children (0-10 years) mostly come in for urgent but treatable conditions.
 
--Over 60% of patients are seen within 30 minutes, showing good efficiency in emergency response.
+- Over 60% of patients are seen within 30 minutes, showing good efficiency in emergency response.
 
--However, waiting times increase during peak hours, indicating the need for better staff allocation.
+- However, waiting times increase during peak hours, indicating the need for better staff allocation.
 
--Male patients slightly outnumber female patients in emergency room visits.
+- Male patients slightly outnumber female patients in emergency room visits.
 
--Gender-based trends may reflect differences in accident-prone activities or health-seeking behavior.
+- Gender-based trends may reflect differences in accident-prone activities or health-seeking behavior.
 
--Emergency medicine and general surgery departments receive the highest referrals.
+- Emergency medicine and general surgery departments receive the highest referrals.
 
--Orthopedics and cardiology also see significant patient inflow, suggesting frequent cases of fractures, heart-related emergencies, or trauma cases.
+- Orthopedics and cardiology also see significant patient inflow, suggesting frequent cases of fractures, heart-related emergencies, or trauma cases.
 
 ## Conclusion
--The Hospital Emergency Room Dashboard enhances efficiency by tracking admissions, age distribution, timeliness, gender demographics, and department referrals. It helps optimize resource allocation, reduce wait times, and improve patient care. These insights enable hospitals to make data-driven decisions for better emergency response and overall healthcare management.
+- The Hospital Emergency Room Dashboard enhances efficiency by tracking admissions, age distribution, timeliness, gender demographics, and department referrals. It helps optimize resource allocation, reduce wait times, and improve patient care. These insights enable hospitals to make data-driven decisions for better emergency response and overall healthcare management.
 
 
 
