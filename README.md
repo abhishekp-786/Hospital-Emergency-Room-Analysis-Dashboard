@@ -1,4 +1,4 @@
-l# Hospital-Emergency-Room-Analysis (Interactive Dashboard creation using MS EXCEL)
+# Hospital-Emergency-Room-Analysis (Interactive Dashboard creation using MS EXCEL)
  
 ## Project objective
 We need to create a Hospital Emergency Room Analysis Dashboard in MS EXCEL to improve efficiency and provide useful insights. This dashboard will help stakeholders monitor, analyze, and make better decisions for managing patients and improving services.
@@ -22,7 +22,7 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS EXCEL to im
 - Created pivot tables according to the questions asked.
 - Merge all pivot into one dashboad and apply slicer to make dynamic.
 
-##Dashboard
+## Dashboard
 ![Screenshot 2025-03-30 153033](https://github.com/user-attachments/assets/b7129c56-254c-4ef3-9542-72d4e13bf908)
 
 ## Project Insights
