@@ -27,14 +27,23 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS EXCEL to im
 
 ## Project Insights
 -A higher percentage of patients are treated and released compared to those admitted, indicating that most cases are not severe.
+
 -Admission rates tend to increase during peak hours and late-night emergencies.
+
 -Middle-aged and elderly patients (50+) visit the emergency room more frequently, possibly due to chronic conditions.
+
 -Young adults (20-40 years) have moderate visits, while children (0-10 years) mostly come in for urgent but treatable conditions.
+
 -Over 60% of patients are seen within 30 minutes, showing good efficiency in emergency response.
+
 -However, waiting times increase during peak hours, indicating the need for better staff allocation.
+
 -Male patients slightly outnumber female patients in emergency room visits.
+
 -Gender-based trends may reflect differences in accident-prone activities or health-seeking behavior.
+
 -Emergency medicine and general surgery departments receive the highest referrals.
+
 -Orthopedics and cardiology also see significant patient inflow, suggesting frequent cases of fractures, heart-related emergencies, or trauma cases.
 
 ## Conclusion
